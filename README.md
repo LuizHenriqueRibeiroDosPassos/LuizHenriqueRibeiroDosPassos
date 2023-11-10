@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuizHenriqueRibeiroDosPassos
+- 👋 Hi, I’m Luiz Henrique Ribeiro
 - 👀 I’m interested in study
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate on teams and professionals in the programming area, so that I can learn to program in the best way possible.
